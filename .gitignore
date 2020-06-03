@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# project
+crawler.log
+alpha_vantage_keyapi.txt
